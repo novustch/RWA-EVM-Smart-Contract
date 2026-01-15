@@ -369,6 +369,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Support
 
+- **Telegram**: [@novustch](https://t.me/novustch)
+- **Twitter**: [@novustch](https://x.com/novustch)
+
 For issues, questions, or contributions, please open an issue on the repository.
 
 ## 🔄 Version History
